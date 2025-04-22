@@ -8,7 +8,7 @@
  • 🔍  Estruturas de Dados e Algoritmos   
  • 🌐  Arquitetura de Redes de Computadores   
 
-💬 Sempre aberta a aprender, compartilhar e crescer!
+💬 Sempre aberta a aprender, compartilhar e crescer.
   
 ##
 
