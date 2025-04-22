@@ -37,5 +37,4 @@
   </a>
 </div>
 
-![Snake animationhttps://github.com/juliaoliveirads/juliaoliveirads/blob/output/github-contribution-grid-snake.svg)
-
+![Snake animationhttps://github.com/juliaoliveirads/juliaoliveirads/edit/main/README.md
