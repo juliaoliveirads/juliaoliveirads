@@ -1,8 +1,6 @@
 ## Oii, eu sou a Julia! 💙
 
-Estudante de Engenharia de Software | 2/4
-
-Faço parte da UNIDEV, uma consultoria júnior cheia de ideias e inovação  
+Software Engineering
 
 <div align="center">
   <a href="https://github.com/juliaoliveirads">
