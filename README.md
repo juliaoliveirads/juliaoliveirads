@@ -1,12 +1,13 @@
 ## Oii, eu sou a Julia! 💙
 
 Estudante de Engenharia de Software | 2/4
+
 Faço parte da UNIDEV, uma consultoria júnior cheia de ideias e inovação  
 
 <div align="center">
   <a href="https://github.com/juliaoliveirads">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=juliaoliveirads&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaoliveirads&layout=compact&langs_count=16&theme=dracula" />
+    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=juliaoliveirads&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliaoliveirads&layout=compact&langs_count=16&theme=dracula)
   </a>
 </div>
   
