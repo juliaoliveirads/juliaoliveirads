@@ -1,14 +1,7 @@
 ## Oii, eu sou a Julia! 💙
 
-
-💻 Estudante de Engenharia de Software  
-🧑‍💻 Atualmente trabalho na UniCesumar  
-💡 Faço parte da UNIDEV, uma consultoria júnior cheia de ideias e inovação  
-📚 Estudando pela Udemy:  
- • 🔍  Estruturas de Dados e Algoritmos   
- • 🌐  Arquitetura de Redes de Computadores   
-
-💬 Sempre aberta a aprender, compartilhar e crescer.
+Estudante de Engenharia de Software | 2/4
+Faço parte da UNIDEV, uma consultoria júnior cheia de ideias e inovação  
 
 <div align="center">
   <a href="https://github.com/juliaoliveirads">
