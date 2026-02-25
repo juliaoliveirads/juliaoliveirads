@@ -6,8 +6,8 @@ Faço parte da UNIDEV, uma consultoria júnior cheia de ideias e inovação
 
 <div align="center">
   <a href="https://github.com/juliaoliveirads">
-    <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=juliaoliveirads&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=juliaoliveirads&layout=compact&langs_count=16&theme=dracula" />
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=juliaoliveirads&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=juliaoliveirads&layout=compact&langs_count=8&theme=dracula" />
   </a>
 </div>
   
